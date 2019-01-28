@@ -1,0 +1,24 @@
+{
+  "name": "zapier-sling-integration",
+  "version": "1.0.0",
+  "description": "A Sling.is integration for the Zapier platform.",
+  "repository": "kangzeroo/zapier-sling-integration",
+  "homepage": "https://getsling.com/",
+  "author": "Kangze Huang",
+  "license": "BSD-3-Clause",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "engines": {
+    "node": "8.10.0",
+    "npm": ">=5.6.0"
+  },
+  "dependencies": {
+    "zapier-platform-core": "7.6.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.0"
+  }
+}
