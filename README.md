@@ -1,7 +1,7 @@
-# Minimal Example App For Zapier Platform
+# Zapier + Sling.is Integration
 
-[![Build Status](https://travis-ci.org/zapier/zapier-platform-example-app-minimal.svg?branch=master)](https://travis-ci.org/zapier/zapier-platform-example-app-minimal)
+Sling is an SaaS for employee shift scheduling. Zapier is a platform for automating SaaS services. This is an integration of the two which allows for:
 
-A barebones app.
-
-> We recommend using the zapier-platform-cli and `zapier init . --template=minimal` to create an app.
+## Triggers
+- When a new shift is added, do something
+- More coming...
